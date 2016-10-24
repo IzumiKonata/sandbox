@@ -1,4 +1,4 @@
-﻿# SpellCards
+# SpellCards
 
 作者：高杰
 
