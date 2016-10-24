@@ -1,4 +1,4 @@
 # Summary
 
-* SpellCards
+* [SpellCards](SpellCards.md)
 
